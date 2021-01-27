@@ -1,0 +1,16 @@
+aside{
+  width: 100px;
+  height: 100%;
+  background-color: #00214C;
+  position: fixed;
+
+}
+
+@media ( max-width: 1200px) {
+  aside {
+    width: 40px;
+
+
+  }
+
+}

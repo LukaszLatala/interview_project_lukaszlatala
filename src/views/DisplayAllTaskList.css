@@ -1,0 +1,18 @@
+.DisplayAllTaskLists_container{
+    display: grid ;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 150px;
+}
+
+
+@media ( max-width: 1200px) {
+	.DisplayAllTaskLists_container{
+        grid-template-columns: 1fr;
+    margin-left: 36px;
+
+	
+	}
+	
+}
+
+
