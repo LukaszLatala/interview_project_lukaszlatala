@@ -1,4 +1,4 @@
-# Interview project - react
+# Trello clone project - react
 
 ## Overview
 
