@@ -6,7 +6,7 @@ This project is an app built with "Create React App". Project is a todo-app whic
 
 ### Link to deplyed app (netlify):
 
-https://interview-project-lukaszlatala.netlify.app/
+https://trello-app-react.netlify.app/
 
 ## Used technologies:
 
